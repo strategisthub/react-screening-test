@@ -23,6 +23,6 @@ It would be really nice if we can see some unit tests around the components you 
 
 It would be considered a bonus, if you would use `Typescript`.
 
-# After completing the application, 
+# Send us Github Repo Link:
 
 Send us the create the repoistory of your solution and send us the github link at farhan@strategisthub.com, please keep in mind that repo must have description to how to run the application and what sort of libraries (if any) have been used.
