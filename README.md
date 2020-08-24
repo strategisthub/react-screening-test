@@ -15,7 +15,7 @@ The app must have the following functionalities:
 - Clicking on the "Most Recent" button should reorder and display the articles by date in descending order.
 - You can assume that each article has a unique publish date and number of upvotes.
 
-# Tests:
+# Unit Tests:
 
 It would be really nice if we can see some unit tests around the components you create.
 
