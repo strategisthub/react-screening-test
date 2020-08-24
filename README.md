@@ -5,7 +5,8 @@ Create a basic article sorting application. For UI, you can use either grid styl
 
 The app must have the following functionalities:
 
-- The list of articles to display, you can use dummy data for this application.
+- Must be developed using Create React App.
+- The list of articles to display.
 - Each article has the following three properties:
   - title: The title of the article
   - upvotes: The number of upvotes for an article
@@ -14,6 +15,9 @@ The app must have the following functionalities:
 - Clicking on the "Most Upvoted" button should reorder and display the articles by the number of upvotes in descending order.
 - Clicking on the "Most Recent" button should reorder and display the articles by date in descending order.
 - You can assume that each article has a unique publish date and number of upvotes.
+
+## Note: 
+You do not need to create a server for this, just create a data.json file and put dummy data to use in that file.
 
 # Unit Tests:
 
