@@ -1,4 +1,4 @@
-# React: Sorting Articles  
+# React Test: Sorting Articles  
 
 Create a basic article sorting application. For UI, you can use either grid style to showcase articles or list tiles. Design wise it’s up to you, we wanna see how creative you can be.
 
