@@ -23,10 +23,6 @@ You do not need to create a server for this, just create a data.json file and pu
 
 It would be really nice if we can see some unit tests around the components you create.
 
-# Bonus:
-
-It would be considered a bonus, if you would use `Typescript`.
-
 # Send us Github Repo Link:
 
 Send us the create the repoistory of your solution and send us the github link at farhan@strategisthub.com, please keep in mind that repo must have description to how to run the application and what sort of libraries (if any) have been used.
